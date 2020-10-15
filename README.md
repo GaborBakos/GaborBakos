@@ -32,7 +32,14 @@
 
   <img align="left" alt="GaborBakos's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GaborBakos&show_icons=true&hide_border=true" />
 
+  [![HitCount](http://hits.dwyl.io/GaborBakos/badges.svg)](http://hits.dwyl.io/GaborBakos/badges)
 </details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+[![Gabor's github stats](https://github-readme-stats.vercel.app/api?username=GaborBakos&theme=blue-green)](https://github.com/gaborbakos/github-readme-stats)
+</details>
+
 
 [website]: https://gaborbakos.github.io/
 [instagram]: https://www.instagram.com/bakosgabor23/
