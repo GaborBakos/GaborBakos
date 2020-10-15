@@ -22,22 +22,17 @@
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
 <br />
+aa
 <br />
 ---
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="GaborBakos's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GaborBakos&show_icons=true&hide_border=true" />
-
-  [![HitCount](http://hits.dwyl.io/GaborBakos/badges.svg)](http://hits.dwyl.io/GaborBakos/badges) 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-[![Gabor's github stats](https://github-readme-stats.vercel.app/api?username=GaborBakos&theme=blue-green)](https://github.com/gaborbakos/github-readme-stats)
-</details>
+
 
 
 [website]: https://gaborbakos.github.io/
