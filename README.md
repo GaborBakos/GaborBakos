@@ -29,7 +29,7 @@ aa
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="GaborBakos's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GaborBakos&show_icons=true&hide_border=true" />
+  <img align="left" alt="GaborBakos's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=GaborBakos&show_icons=true&hide_border=true&theme=radical" />
 </details>
 
 
