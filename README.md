@@ -2,11 +2,6 @@
 
 ### I'm a Quant, Developer, and an avid Gamer!!
 
-- 🌱 I’m currently learning HPC, C++, IRL
-- 👯 I am planning to code up common ML algorithms from scratch
-- 🥅 2020 Goals: we all had some
-- ⚡ Fun fact: I love to play basketball and the gym is my second home
-
 ### Connect with me:
 
 [<img align="left" alt="gaborbakos.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
